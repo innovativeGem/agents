@@ -11,7 +11,7 @@ def run():
     Run the research crew.
     """
     inputs = {
-        'company': 'Apple'
+        'company': 'Storman, A Global Payments company'
     }
 
     # Create and run the crew
